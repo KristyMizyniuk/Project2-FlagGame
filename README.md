@@ -1,0 +1,2 @@
+# Project2-FlagGame
+"Flag Game" application is an application where users can improve their knowledge of countries by playing the game. In the top bar users see the name of the country and under the country’s name there are three buttons with images of the flags. The main task of the game is to choose the correct button with the flag. If users select the correct button they see a pop-up notification with a positive score and go to the next level. Otherwise, they see a pop-up notification with a negative score but still go to the next level to try again
